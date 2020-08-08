@@ -1,0 +1,6 @@
+name: Bifrost
+version: '0.1.0'
+main: com.jackbaron.bifrost.Bifrost
+
+author: lolPants
+description: Registers command aliases to move between servers
